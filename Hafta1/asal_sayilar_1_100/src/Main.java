@@ -5,7 +5,7 @@ public class Main {
 
             int j;
 
-            for (j = 2; j <= i; j++ ){
+            for (j = 2; j < i; j++ ){
 
                 if (i % j == 0){
                     break;
